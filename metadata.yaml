@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '38523'
     url: http://www.gutenberg.org/2009/agents/38523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36879#NicotianaOr-The-Smoker-s-and-Snuff-Taker-s-Companion
 gutenberg_issued: '2011-07-28'
 gutenberg_type: Text
 identifiers:
